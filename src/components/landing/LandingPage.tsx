@@ -365,7 +365,6 @@ export default function LandingPage() {
             <input style={S.ctaInput} type="email" placeholder="Enter your email address" />
             <Link href="/register"><button style={S.ctaBtn}>Get started free →</button></Link>
           </div>
-          <p style={{ fontSize: 12, color: 'rgba(255,255,255,.3)' }}>No credit card required · Get started in minutes</p>
         </div>
       </section>
 
