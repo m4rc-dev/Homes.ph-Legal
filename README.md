@@ -1,4 +1,4 @@
-# LexPortal — Next.js + TypeScript
+# Homes.ph Legal — Next.js + TypeScript
 
 A full-stack Philippine legal services platform built with **Next.js 14 App Router** and **TypeScript**.
 
